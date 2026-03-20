@@ -1,3 +1,9 @@
+![GitHub stars](https://img.shields.io/github/stars/22AD040/ai-smart-nexus-studio?style=social)
+![GitHub forks](https://img.shields.io/github/forks/22AD040/ai-smart-nexus-studio?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/22AD040/ai-smart-nexus-studio)
+
+---
+
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![Gemini](https://img.shields.io/badge/Gemini-AI-green)
@@ -18,6 +24,8 @@ https://ai-smart-nexus-studio-yhkkejx6i2rngev9txcrrj.streamlit.app/
 
 ## ✨ Overview
 
+👉 Built as a real-world AI application integrating multiple Gen AI use cases into a single platform.
+
 **AI Smart Nexus Studio** is a modern AI application that allows users to:
 
 * Generate high-quality prompts
@@ -25,6 +33,13 @@ https://ai-smart-nexus-studio-yhkkejx6i2rngev9txcrrj.streamlit.app/
 * Write stories and content
 * Learn concepts with structured explanations
 * Store chats and generated assets
+
+## 🧪 How It Works
+
+1. User inputs prompt / idea  
+2. Gemini API processes request  
+3. AI generates response (text/image)  
+4. Output displayed + stored  
 
 👉 Designed with a **clean UI + modular architecture + real-world AI integration**
 
@@ -145,9 +160,8 @@ https://ai-smart-nexus-studio-yhkkejx6i2rngev9txcrrj.streamlit.app/
 ## 📂 Project Structure
 
 ```bash
-AI-SMART-NEXUS-STUDIO/
-│
-├── assets/screenshots                 
+AI-NEXUS-IMAGE-GEN/
+│                
 ├── data/
 │   ├── users.json
 │   └── chats.json
@@ -261,7 +275,7 @@ streamlit run app.py
 ## 👩‍💻 Author
 
 **Ratchita B**
-🚀 GEN AI & Machine Learning Enthusiast
+🚀 Generative AI & AI Application Developer
 
 ---
 
