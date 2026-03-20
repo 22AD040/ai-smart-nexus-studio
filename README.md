@@ -14,6 +14,9 @@
 ---
 
 # 🚀 AI Smart Nexus Studio
+> 🧠 Build, Generate, Learn — All in One AI Platform
+
+![Built with Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-red)
 
 > 🧠 A complete **AI-powered multi-tool platform** built with Streamlit, integrating **Generative AI, Prompt Engineering, Image Generation, and Smart Learning Assistant** — all in one place.
 
