@@ -3,7 +3,6 @@
 ![Gemini](https://img.shields.io/badge/Gemini-AI-green)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-API-yellow)
 ![Generative AI](https://img.shields.io/badge/Generative-AI-purple)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 ---
