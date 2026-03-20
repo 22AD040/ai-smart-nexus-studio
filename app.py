@@ -7,6 +7,7 @@ from modules.chat_store import save_chat, load_chats
 
 st.set_page_config(page_title="AI Studio", layout="wide")
 
+st.write("APP STARTED")
 
 if "user" not in st.session_state:
     st.session_state.user = None
@@ -125,7 +126,7 @@ h1, h2, h3 {
             
 /* FIX TITLE VISIBILITY */
 h1 {
-    color: #000000 !important;
+    color: #FFFFFF !important;
 }
 
 /* SCROLL */
