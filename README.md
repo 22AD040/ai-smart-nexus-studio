@@ -185,10 +185,6 @@ AI-SMART-NEXUS-STUDIO/
 
 ![Create Image](assets/create-image.png)
 
-### 🎨 Generated Image
-
-![Generated Image](assets/generated-image.png)
-
 ### ✍️ Write Anything
 
 ![Write](assets/write-anything.png)
