@@ -7,7 +7,7 @@ from modules.chat_store import save_chat, load_chats
 
 st.set_page_config(page_title="AI Studio", layout="wide")
 
-st.write("APP STARTED")
+print("APP STARTED")
 
 if "user" not in st.session_state:
     st.session_state.user = None
